@@ -1,5 +1,7 @@
 # La Courbe du dragon - programmation 1
 
+@[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
+
 ## Réponse à la question bonus
 
 - L'épaisseur de la bandelette de feuille pliée 53 fois est d'environ 900 millions de km de haut, soit **la distance maximale entre la terre et jupiter**.
