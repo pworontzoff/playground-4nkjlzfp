@@ -6,8 +6,8 @@
 #define COURBE_NIVEAU 1
 
 
-#define LARGEUR 1100
-#define HAUTEUR 1100
+#define LARGEUR 1200
+#define HAUTEUR 1200
 #define TAILLE_SEGMENT_INIT 400
 
 
@@ -24,7 +24,7 @@ int main() {
     
     repeat (COURBE_NIVEAU) {
         ajoutePlis();
-        longueur_segment = (longueur_segment * 7.15) / 10;        
+        longueur_segment = (longueur_segment * (7 + (0.027 * COURBE_NIVEAU))) / 10;        
     } loop;
 
     init_drawing(LARGEUR,HAUTEUR);
