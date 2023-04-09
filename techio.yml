@@ -13,7 +13,7 @@ plan:
   - title: La Courbe du dragon - niveau 5, 6, 7, ..., 15, ... ?
     statement: markdowns/step5To15.md
   - title: La Courbe du dragon - Programmation - 1
-    statement: markdowns/prrog_1.md
+    statement: markdowns/prog_1.md
  
 projects:
   drawing_dragon_curve:
