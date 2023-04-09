@@ -43,7 +43,7 @@ Ouvrons la calculatrice sur notre ordinateur et... calculons !
 
 <br>
 
-NB : après 15 étapes, il y aura plus de 65000 virages pour la fourmi !
+NB : après 15 étapes, il y aura plus de 32000 virages pour la fourmi !
 
 <br>
 
