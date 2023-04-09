@@ -1,4 +1,4 @@
-# La Courbe du dragon - étape 5, 6, 7, ..., 15
+# La Courbe du dragon - niveau 5, 6, 7, ..., 15, ... ?
 
 Avez-vous remarqué... ?
 
