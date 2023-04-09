@@ -1,6 +1,6 @@
 # La Courbe du dragon - programmation 1
 
-@[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
+@[dragon_curve]({"stubs": ["notes.txt"],"", "project" : ""})
 
 ## Réponse à la question bonus
 
