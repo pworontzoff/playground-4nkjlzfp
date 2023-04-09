@@ -1,6 +1,6 @@
 # La Courbe du dragon - programmation 1
 
-@[dragon_curve]({"stubs": ["notes.txt"],"", "project" : ""})
+@[dragon_curve]({"stubs": ["notes.txt"]})
 
 ## Réponse à la question bonus
 
