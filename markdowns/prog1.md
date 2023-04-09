@@ -1,4 +1,7 @@
-# La Courbe du dragon - niveau 5, 6, 7, ..., 15, ... ?
+# La Courbe du dragon - programmation
+
+## Réponse à la question bonus
+
 
 Avez-vous remarqué... ?
 
