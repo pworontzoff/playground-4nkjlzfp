@@ -21,3 +21,5 @@ projects:
     runner:
       name: techio/cmake-gcc-runner
       version: latest
+  dragon_curve:
+    root: "/"
