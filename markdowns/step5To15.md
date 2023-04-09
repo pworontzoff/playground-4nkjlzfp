@@ -51,7 +51,7 @@ Question bonus :  A votre avis sans calculer, quelle serait l'épaisseur et la l
 
 <br>
 
-!!!!!! (réponse : environ 900 millions de km de haut, soit la distance maximale entre la terre et jupiter et 0,000064...cm = 6,4 millième de mm = environ un dizième de la largeur d'un cheveux !! Et il y aurait pour la fourmi environ 1.125.000 milliards de virages !)
+!!!!!! (réponse : environ 900 millions de km de haut, soit la distance maximale entre la terre et jupiter et environ 2,3 am (attomètre = 1 milliardième de milliardième de mètre) = environ 500 fois plus petit que la taille d'un noyau atomique (un noyau atomique, c'est 100.000 fois plus petit qu'un atome...) Et il y aurait pour la fourmi environ ????? 1.125.000 milliards de virages !)
 
 <br><br>
 
