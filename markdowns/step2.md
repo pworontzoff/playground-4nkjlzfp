@@ -1,4 +1,4 @@
-# La Courbe du dragon - étape 2 (2 plis)
+# La Courbe du dragon - niveau 2 (2 plis)
 
 ## Manip 1 : replier 2 fois
 
