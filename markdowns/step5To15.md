@@ -12,7 +12,7 @@ Difficle voire impossible de continuer à la plier....
 
 <br>
 
-Aimeriez-vous savour à quoi ressemblerait le dessin si on continuait à plier encore 11 fois la feuille en deux ?
+Aimeriez-vous savoir à quoi ressemblerait le dessin si on continuait à plier encore 11 fois la feuille en deux ?
 
 <br>
 
