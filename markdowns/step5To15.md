@@ -51,7 +51,7 @@ Question bonus :  A votre avis sans calculer, quelle serait l'épaisseur et la l
 
 <br>
 
-!!!!!! (réponse : 6553,6mm = environ 6,5m de haut et 0,000064...cm = 6,4 millième de mm = environ un dizième de la largeur d'un cheveux !! Et il y aurait pour la fourmi environ 1.125.000 milliards de virages !)
+!!!!!! (réponse : 112 millions de km de haut et 0,000064...cm = 6,4 millième de mm = environ un dizième de la largeur d'un cheveux !! Et il y aurait pour la fourmi environ 1.125.000 milliards de virages !)
 
 <br><br>
 
