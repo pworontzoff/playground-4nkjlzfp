@@ -1,7 +1,5 @@
 # La Courbe du dragon - programmation 1
 
-@[dragon_curve]({"stubs": ["notes.txt"]})
-
 ## Réponse à la question bonus
 
 - L'épaisseur de la bandelette de feuille pliée 53 fois est d'environ 900 millions de km de haut, soit **la distance maximale entre la terre et jupiter**.
@@ -10,6 +8,9 @@
 
 - Et si on plie la bandelette de feuille 53 fois, il y aura pour la fourmi 9.007.199.254.740.991 virages, soit **environ 10 millions de milliards** de virages !
 
+## Comment programmer la courbe du dragon ?
+
+Nous pouvons utiliser de la programmation pour dessiner des segments de droites consécutifs avec
 <br><br>
 
 @[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
