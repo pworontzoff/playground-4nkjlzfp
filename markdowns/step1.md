@@ -1,4 +1,4 @@
-# La Courbe du dragon - étape 1 (1 pli)
+# La Courbe du dragon - niveau 1 (1 pli)
 
 ## Manip 1
 
