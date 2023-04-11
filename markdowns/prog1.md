@@ -10,7 +10,28 @@
 
 ## Comment programmer la courbe du dragon ?
 
-Nous pouvons utiliser de la programmation pour dessiner des segments de droites consécutifs avec
+Nous pouvons utiliser de la programmation pour dessiner des segments de droites consécutifs avec des anfles de 90°.
+
+De nombreuses solutions techniques à ce problème existent. Nous utiliserons une solution qui s'intégre à cette page web et qui utilise du langage C.
+
+Mais par contre, nous avons besoin de dire à l'ordinateur quels segments dessiner, et dans quel ordre !
+
+En fait, cela correspond à donner le chemin que va suivre la fourmi pour partir de la gommette bleue de départ et arriver jusqu'à l'autre bout de la bande de papier.
+
+La fourmi fait des quarts de tours (90°) soit à gauche, soit à doite.
+
+Pour dessiner la courbe du dragon, il nous faut découvrir un moyen de trouver le chemin pour un nombre de plis donnés.
+
+C'est notre défi !
+
+## Le défi : construire le chemin de la fourmi à partir du chemin précédent
+
+Une manière trés classique de calculer des choses en programmation consiste à le faire par étapes.
+
+On connaît le résultat (le chemin) pour une première étape et on a un algorthme, une recette, un mode d'emploi, qui permet de trouver le résultat (le chemin) de l'étape suivante à partir de celui qu'on connait.
+
+Nous devons donc réussir à trouver un algorithme qui permet de trouver le chemin de la fourmi lorsqu'on a plié n fois la bandelette de papier, à partir du chemin de la fourmi lorsqu'on a plié n-1 fois la bandelette de papier.
+
 <br><br>
 
 @[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
