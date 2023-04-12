@@ -16,7 +16,7 @@ Replier la bandelette de papier, puis plier à nouveau en 2 parties égales. NE 
 
 Si on déplie (comme avant) en formant uniquement des angles droits : combien y en aura-t-il ? (Combien la fourmi va-t-elle faire de virage ?)
 
-Et si on place la feuille comme à l'étape 1 (avec la gommette bleue en haut), essayez de deviner le dessin que l'on va obtenir !
+Et si on place la feuille comme au niveau 1 (avec la gommette bleue en haut), essayez de deviner le dessin que l'on va obtenir !
 
 <br><br>
 
@@ -48,7 +48,7 @@ Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4
 
 <br>
 
-Notez maintenant sur la 2e feuille : "étape 2 :" puis tracez le dessin obtenu, puis indiquez le chemin de la fourmi  **en notant "G" pour "Gauche" et "D" pour "Droite"**
+Notez maintenant sur la 2e feuille : "niveau 2 :" puis tracez le dessin obtenu, puis indiquez le chemin de la fourmi  **en notant "G" pour "Gauche" et "D" pour "Droite"**
 
 <br><br>
 
@@ -66,7 +66,7 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours à l'étape 2 : "nombre de virages : " puis indiquez le nombe correct ! 
+Ajouter maintenant sur la 2e feuille, toujours au niveau 2 : "nombre de virages : " puis indiquez le nombe correct ! 
 
 <br><br>
 
@@ -75,7 +75,7 @@ Ajouter maintenant sur la 2e feuille, toujours à l'étape 2 : "nombre de virage
 <br>
 
 En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en longueur, quel est l'épaisseur et quelle est la longueur de la bandelette pliée en 2 ?
-Puisqu'à l'étape précédente, la bandelette de feuille faisait 0,2mm d'épaisseur et 10,5cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à cette étape-ci ?
+Puisqu'au niveau précédent, la bandelette de feuille faisait 0,2mm d'épaisseur et 10,5cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à cette étape-ci ?
 
 !!!!!! (réponse : 0,2mm * 2 = 0,4mm d'épaisseur et 10,5cm/2 = 5,25cm de long)
 
@@ -85,4 +85,4 @@ Puisqu'à l'étape précédente, la bandelette de feuille faisait 0,2mm d'épais
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours à l'étape 2 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
+Ajouter maintenant sur la 2e feuille, toujours au niveau 2 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
