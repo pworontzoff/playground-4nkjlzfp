@@ -40,7 +40,7 @@ Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcoure le 
 
 Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4 de tour) vers ... ?
 
-!!!!!! (réponse : DROITE-GAUCHE-GAUCHE)
+!!!!!! (réponse : GAUCHE-GAUCHE-DROITE)
 
 <br><br>
 
