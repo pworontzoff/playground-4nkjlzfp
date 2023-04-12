@@ -38,9 +38,9 @@ Grâce aux notes que nous avons prises, nous avons obtenu ceci :
 
 ```
 niveau 1 : G
-niveau 2 : DGG
-niveau 3 : DDGGDGG
-niveau 4 : DDGDDGGGDDGGDGG
+niveau 2 : GGD
+niveau 3 : GGDGGDD
+niveau 4 : GGDGGDDGGGDDGDD
 ```
 
 Qui pourrait dire ce que sera la chemin de la fourmi au niveau 5 ?
@@ -53,9 +53,9 @@ Pour nous aider, on va réarranger un peu les choses :
 
 ```
 niveau 1 :         G
-niveau 2 : D       G G
-niveau 3 : DDG     G DGG
-niveau 4 : DDGDDGG G DDGGDGG
+niveau 2 : G       G D
+niveau 3 : GGD     G GDD
+niveau 4 : GGDGGDD G GGDDGDD
 ```
 Quelqu'un voit-il comment on peut passer du niveau 3 au niveau 4 ?
 
