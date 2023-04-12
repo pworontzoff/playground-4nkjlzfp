@@ -4,7 +4,7 @@
 
 <br>
 
-Replier complètement la bandelette de papier, puis plier à nouveau en 2 parties égales comme les fois précédente.
+Replierr complètement la bandelette de papier, puis plier à nouveau en 2 parties égales comme les fois précédente.
 
 <br>
 
