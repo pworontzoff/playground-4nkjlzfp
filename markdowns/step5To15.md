@@ -31,7 +31,7 @@ Ouvrons la calculatrice sur notre ordinateur et... calculons !
 
 <br>
 
-!!!!!! (réponse : 6553,6 mm = environ 6,5m de haut et environ 0,000064cm = 6,4 millième de mm de long = environ un dizième de la largeur d'un cheveux)
+!!!!!! (réponse : 3276,8 mm = environ 3m de haut et environ 0,000064cm = 6,4 millième de mm de long = environ un dizième de la largeur d'un cheveux)
 
 <br>
 
