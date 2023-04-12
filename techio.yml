@@ -14,6 +14,8 @@ plan:
     statement: markdowns/step5To15.md
   - title: La Courbe du dragon - Programmation - 1
     statement: markdowns/prog1.md
+  - title: La Courbe du dragon - Programmation - 2
+    statement: markdowns/prog1.md
  
 projects:
   drawing_dragon_curve:
