@@ -23,6 +23,10 @@ Ensuite, on doit lire à l'envers (de droite à gauche) le chemin précédent et
 
 <br><br>
 
+Amusons-nous à dessiner avec du code !
+
+C'est très simple, 
+
 @[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
 
 **! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
