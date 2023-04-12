@@ -19,7 +19,7 @@ Ensuite, on a (toujours un "G" qui correspond au tout premier pli effectué)
 <br><br>
 Ensuite, on doit lire de gauche à droite le chemin précédent et inverser les G et les D et on obtient la deuxième moitié du chemin !
 
-
+<br><br>
 
 @[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
 
