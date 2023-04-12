@@ -22,6 +22,11 @@ plan:
     statement: markdowns/prog4.md
  
 projects:
+  drawing_dragon_1:
+    root: "/c_dargon_1"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
   drawing_dragon_curve:
     root: "/c_drawing_sample"
     runner:
