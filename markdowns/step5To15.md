@@ -16,7 +16,7 @@ Aimeriez-vous savoir à quoi ressemblerait le dessin si on continuait à plier e
 
 <br>
 
-Si oui, comment faire pour voir ce que donnerait notre petit dessin à l'étape 15 ?  Et quelle serait l'épaisseur et la longueur de la bandelette de feuille pliée 15 fois ? Rappelons-nous :
+Si oui, comment faire pour voir ce que donnerait notre petit dessin au niveau 15 ?  Et quelle serait l'épaisseur et la longueur de la bandelette de feuille pliée 15 fois ? Rappelons-nous :
 
 <br>
 
@@ -43,7 +43,7 @@ Ouvrons la calculatrice sur notre ordinateur et... calculons !
 
 <br>
 
-NB : après 15 étapes, il y aura plus de 32000 virages pour la fourmi !
+NB : après 15 plis, il y aura plus de 32000 virages pour la fourmi !
 
 <br>
 
