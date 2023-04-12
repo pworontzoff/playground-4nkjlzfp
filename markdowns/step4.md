@@ -20,7 +20,7 @@ Notez sur la 2e feuille : "niveau 4 :" puis tracez le dessin obtenu, puis indiqu
 
 <br>
 
-!!!!!! (réponse : DDGDDGG G DDGGDGG).
+!!!!!! (réponse : GGDGGDD G GGDDGDD).
 
 <br><br>
 
