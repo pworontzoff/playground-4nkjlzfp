@@ -12,6 +12,10 @@ niveau 4 : GGDGGDD G GGDDGDD
 <br>
 Pour passer du niveau `3 au` niveau 4, on remarque que la première partie du chemin est égale au chemin du niveau précédent :
 <br><br>
+
+Un `paper` est 
+
+
 niveau 3 : `GGD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G GDD`
 <br>
 niveau 4 : **GGDGGDD** G GGDDGDD
