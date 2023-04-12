@@ -1,4 +1,4 @@
-# test.  La Courbe du dragon !!!
+# La Courbe du dragon
 
 ## Introduction
 
