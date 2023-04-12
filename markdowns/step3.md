@@ -8,7 +8,7 @@ Replier complètement la bandelette de papier, puis plier à nouveau en 2 partie
 
 <br>
 
-Si on déplie (comme avant) en formant uniquement des angles droits et qu'on place la feuille comme à l'étape 1 (sur la tranche avec la gommette bleue en haut), pourriez-vous imaginer quel dessin on va obtenir ?
+Si on déplie (comme avant) en formant uniquement des angles droits et qu'on place la feuille comme au niveau 1 (sur la tranche avec la gommette bleue en haut), pourriez-vous imaginer quel dessin on va obtenir ?
 
 <br>
 
@@ -32,7 +32,7 @@ Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4
 
 <br>
 
-Notez sur la 2e feuille : "étape 3 :" puis tracez le dessin obtenu, puis indiquez le chemin de la fourmi  **en notant "G" pour "Gauche" et "D" pour "DROITE"**
+Notez sur la 2e feuille : "niveau 3 :" puis tracez le dessin obtenu, puis indiquez le chemin de la fourmi  **en notant "G" pour "Gauche" et "D" pour "DROITE"**
 
 <br>
 
@@ -52,7 +52,7 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours à l'étape 3 : "nombre de virages : " puis indiquez le nombe correct ! 
+Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "nombre de virages : " puis indiquez le nombe correct ! 
 
 <br><br>
 
@@ -60,7 +60,7 @@ Ajouter maintenant sur la 2e feuille, toujours à l'étape 3 : "nombre de virage
 
 <br>
 
-Puisqu'à l'étape précédente, la bandelette de feuille faisait 0,4mm d'épaisseur et 5,25cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à cette étape-ci ?
+Puisqu'au niveau précédent, la bandelette de feuille faisait 0,4mm d'épaisseur et 5,25cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
 
 <br>
 
@@ -68,4 +68,4 @@ Puisqu'à l'étape précédente, la bandelette de feuille faisait 0,4mm d'épais
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours à l'étape 3 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
+Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
