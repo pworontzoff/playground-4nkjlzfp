@@ -43,12 +43,23 @@ niveau 3 : DDGGDGG
 niveau 4 : DDGDDGGGDDGGDGG
 ```
 
-
 Qui pourrait dire ce que sera la chemin de la fourmi au niveau 5 ?
 
 ![question](img/question.png) 
 
 <br><br>
+
+Pour nous aider, on va réarranger un peu les choses : 
+
+```
+niveau 1 :         G
+niveau 2 : D       G G
+niveau 3 : DDG     G DGG
+niveau 4 : DDGDDGG G DDGGDGG
+```
+Quelqu'un voit-il comment on peut passer du niveau 3 au niveau 4 ?
+
+
 
 @[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
 
