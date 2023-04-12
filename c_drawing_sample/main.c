@@ -47,7 +47,6 @@ int nbVirages() {
     /*
     etape  chemin                       - nombre de virages
            debut    milieu fin            debut milieu fin
-    0                                   - 0     0      0   =   0 + 2 x 0  =  0  virage 
     1               G                   - 0     1      0   =   1 + 2 x 0  =  1  virage
     2      G        G      D            - 1     1      1   =   1 + 2 x 1  =  3  virages
     3      GGD      G      GDD          - 3     1      3   =   1 + 2 x 3  =  7  virages
