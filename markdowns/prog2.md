@@ -4,16 +4,17 @@
 
 ```
 niveau 1 :         G
-niveau 2 : D       G G
-niveau 3 : DDG     G DGG
-niveau 4 : DDGDDGG G DDGGDGG
+niveau 2 : G       G D
+niveau 3 : GGD     G GDD
+niveau 4 : GGDGGDD G GGDDGDD
 ```
+
 <br>
 Pour passer du niveau 3 au niveau 4, on remarque que la première partie du chemin est égale au chemin du niveau précédent :
 <br><br>
-niveau 3 : **DDG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G DGG**
+niveau 3 : **GGD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G GDD**
 <br>
-niveau 4 : **DDGDDGG** G DDGGDGG
+niveau 4 : **GGDGGDD** G GGDDGDD
 <br><br>
 Ensuite, on a (toujours un "G" qui correspond au tout premier pli effectué)
 <br><br>
