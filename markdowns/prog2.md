@@ -11,10 +11,10 @@ niveau 4 : DDGDDGG G DDGGDGG
 <br>
 Pour passer du niveau 3 au niveau 4, on remarque que la première partie du chemin est égale au chemin du niveau précédent :
 <br><br>
-niveau 3 : **DDG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G DGG**
-<br><br>
+niveau 3 : **DDG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G DGG**
+<br>
 niveau 4 : **DDGDDGG** G DDGGDGG
-
+<br><br>
 Ensuite, on a (toujours un "G" qui correspond au tout premier pli effectué)
 
 Ensuite, on doit lire de gauche à droite le chemin précédent et inverser les G et les D et on obtient la deuxième moitié du chemin !
