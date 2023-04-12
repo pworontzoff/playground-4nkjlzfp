@@ -10,11 +10,10 @@ niveau 4 : DDGDDGG G DDGGDGG
 ```
 <br>
 Pour passer du niveau 3 au niveau 4, on remarque que la première partie du chemin est égale au chemin du niveau précédent :
-
+<br>
 niveau 3 : **DDG&nbsp;&nbsp;&nbsp;&nbsp;G DGG**
-<br><br>
+<br>
 niveau 4 : **DDGDDGG** G DDGGDGG
-
 
 Ensuite, on a (toujours un "G" qui correspond au tout premier pli effectué)
 
