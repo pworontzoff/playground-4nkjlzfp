@@ -4,7 +4,7 @@
 
 ```
 niveau 1 :         G
-niveau 2 : **G**       G D
+niveau 2 : G       G D
 niveau 3 : GGD     G GDD
 niveau 4 : GGDGGDD G GGDDGDD
 ```
