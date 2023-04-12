@@ -36,10 +36,13 @@ Nous devons donc réussir à trouver un algorithme qui permet de trouver le chem
 
 Grâce aux notes que nous avons prises, nous avons obtenu ceci :
 
-'''niveau 1 : G
+```
+niveau 1 : G
 niveau 2 : DGG
 niveau 3 : DDGGDGG
-niveau 4 : DDGDDGGGDDGGDGG'''
+niveau 4 : DDGDDGGGDDGGDGG
+```
+
 
 Qui pourrait dire ce que sera la chemin de la fourmi au niveau 5 ?
 
