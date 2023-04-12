@@ -23,7 +23,7 @@ plan:
  
 projects:
   drawing_dragon_1:
-    root: "/c_dargon_1"
+    root: "/c_dragon_1"
     runner:
       name: techio/cmake-gcc-runner
       version: latest
