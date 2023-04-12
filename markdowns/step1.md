@@ -28,7 +28,7 @@ Elle part tout droit, puis tourne d'1/4 de tour vers SA gauche ou vers SA droite
 
 <br>
 
-Notez maintenant sur la 2e feuille : "étape 1 :" puis tracez le "L" obtenu, puis indiquez le chemin de la fourmi **en notant "G" pour "Gauche" et "D" pour "Droite"**
+Notez maintenant sur la 2e feuille : "niveau 1 :" puis tracez le "L" obtenu, puis indiquez le chemin de la fourmi **en notant "G" pour "Gauche" et "D" pour "Droite"**
 
 <br><br>
 
@@ -46,7 +46,7 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours à l'étape 1 : "nombre de virages : " puis indiquez le nombe correct ! 
+Ajouter maintenant sur la 2e feuille, toujours au niveau 1 : "nombre de virages : " puis indiquez le nombe correct ! 
 
 <br><br>
 
@@ -64,4 +64,4 @@ En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en lon
 
 <br>
 
-Ajouter maintenant sur la 2e feuille, toujours à l'étape 1 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
+Ajouter maintenant sur la 2e feuille, toujours au niveau 1 : "épaisseur feuille pliée : " puis indiquez le calcul correct, puis "et longueur : " et indiquer le calcul correct !
