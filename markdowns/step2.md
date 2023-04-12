@@ -74,10 +74,10 @@ Ajouter maintenant sur la 2e feuille, toujours au niveau 2 : "nombre de virages 
 
 <br>
 
-En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en longueur, quel est l'épaisseur et quelle est la longueur de la bandelette pliée en 2 ?
-Puisqu'au niveau précédent, la bandelette de feuille faisait 0,2mm d'épaisseur et 10,5cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
+En supposant que la bandelette de feuille fait 0,4mm d'épaisseur et 21cm en longueur, quel est l'épaisseur et quelle est la longueur de la bandelette pliée en 2 ?
+Puisqu'au niveau précédent, la bandelette de feuille faisait 0,8mm d'épaisseur et 10,5cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
 
-!!!!!! (réponse : 0,2mm * 2 = 0,4mm d'épaisseur et 10,5cm/2 = 5,25cm de long)
+!!!!!! (réponse : 0,8mm * 2 = 1,6mm d'épaisseur et 10,5cm/2 = 5,25cm de long)
 
 <br><br>
 
