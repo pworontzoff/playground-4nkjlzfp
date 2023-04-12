@@ -60,10 +60,3 @@ niveau 4 : DDGDDGG G DDGGDGG
 Quelqu'un voit-il comment on peut passer du niveau 3 au niveau 4 ?
 
 Réponse à la page suivante...
-
-
-@[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
-
-**! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
-
-*NB : si vous obtenez l'erreur "Unable to open static viewer" ou si rien ne s'affiche, ce n'est pas grave, il faut juste insister sur le bouton "run" (ou "success") et ça devrait finir par fonctionner.*
