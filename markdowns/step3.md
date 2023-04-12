@@ -36,7 +36,7 @@ Notez sur la 2e feuille : "niveau 3 :" puis tracez le dessin obtenu, puis indiqu
 
 <br>
 
-!!!!!! (réponse pas sur l'ordi : DDG G DGG).
+!!!!!! (réponse : GGD G GDD).
 
 <br><br>
 
