@@ -16,7 +16,7 @@ niveau 3 : **DDG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 niveau 4 : **DDGDDGG** G DDGGDGG
 <br><br>
 Ensuite, on a (toujours un "G" qui correspond au tout premier pli effectué)
-
+<br><br>
 Ensuite, on doit lire de gauche à droite le chemin précédent et inverser les G et les D et on obtient la deuxième moitié du chemin !
 
 
