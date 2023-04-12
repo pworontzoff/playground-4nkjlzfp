@@ -44,7 +44,7 @@ Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "nombre de virages 
 
 <br>
 
-Puisqu'au niveau précédent, la bandelette de feuille faisait 3,2mm d'épaisseur et 2,625cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
+Puisqu'au niveau précédent, la bandelette de feuille faisait 0,8mm d'épaisseur et 2,625cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
 
 <br>
 
