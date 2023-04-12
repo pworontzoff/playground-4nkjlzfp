@@ -25,7 +25,7 @@ Ensuite, on doit lire à l'envers (de droite à gauche) le chemin précédent et
 
 Amusons-nous à dessiner avec du code !
 
-C'est très simple, 
+Ce que nous allons faire maintenant est très simple : faire tracer un segment de droite grâce à notre petit programme ci-dessous :
 
 @[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
 
