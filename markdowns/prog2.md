@@ -27,7 +27,7 @@ Amusons-nous à dessiner avec du code !
 
 Ce que nous allons faire maintenant est très simple : faire tracer un segment de droite grâce à notre petit programme ci-dessous :
 
-@[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
+@[drawing_dragon_1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_1"})
 
 **! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
 
