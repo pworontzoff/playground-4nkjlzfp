@@ -22,7 +22,7 @@ Et nous avons fait 10 marches d'escaliers en écrivant :
     } loop;
 ```
 
-## Niveau supérieur : la croube du dragon, presque complet...
+## Niveau supérieur : la croube du dragon, programme presque complet...
 
 Nous allons maintenant passer au niveau supérieur, notre programme va intégrer du code en plus qui permet de dessiner la courbe du dragon :
 
