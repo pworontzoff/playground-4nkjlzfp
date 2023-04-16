@@ -1,4 +1,4 @@
-# La Courbe du dragon - programmation 5 - Le programme complet
+# La Courbe du dragon - programmation 5 - Le programme presque complet
 
 ## Rappel
 
