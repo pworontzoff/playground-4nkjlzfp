@@ -2,6 +2,10 @@
 
 ## Rappel
 
+Nous avons obtenu un bébé dragon (niveau 4) incomplet; comme ceci :
+
+DragonNiv4_10Virages.PNG
+
 Au niveau 4 (avec 4 plis), dans la courbe du dragon, nous avions 15 virages :
 
 ```
