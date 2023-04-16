@@ -28,12 +28,16 @@ int main() {
     } loop;
 
     init_drawing(LARGEUR,HAUTEUR);
-	turn(90,RIGHT);
-
+	
+    turn(90,RIGHT);
     draw(longueur_segment);
 
     repeat (nbVirages()) {
-        turn(90,(G_OU_D(chemin, i) != DROITE) ? LEFT : RIGHT);
+	if (G_OU_D(chemin, i) == DROITE) {
+           turn(90,RIGHT);
+	} else {
+           turn(90,LEFT);
+	}
         draw(longueur_segment);
         i = i + 1;
     } loop;
