@@ -24,9 +24,6 @@ int main() {
     
     init_dragon();
 	
-    turn(90,RIGHT);
-    draw(longueur_segment);
-
     repeat (10) {
 		draw(100);
 		turn(90,RIGHT);
