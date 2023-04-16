@@ -28,6 +28,8 @@ Et ça marcherait ! :-)
 
 ...Mais ça ne marcherait que pour les courbes de niveau 4 ! :-(
 
+<br><br>
+
 Heureusement, nous avons dans notre programme les lignes de code suivantes :
 
 ```C
