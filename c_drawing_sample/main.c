@@ -13,13 +13,13 @@
 
 int chemin[65536]={0};
 int etape=0;
+int longueur_segment = TAILLE_SEGMENT_INIT;
 
 int nbVirages();
 void ajoutePlis();
 void init_dragon();
 
 int main() {
-    int longueur_segment = TAILLE_SEGMENT_INIT;
     int i=0;
     
     init_dragon();
