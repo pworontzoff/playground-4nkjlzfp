@@ -8,4 +8,10 @@
 
 Dans ce programme que nous avons complété avec succès, il y a une des premières ligne qui est :
 
+```C
 #define COURBE_NIVEAU 1
+```
+
+Nous pouvons changer le `1` et essayer successivement les valeurs 2, 3, 4, ..., 15 !
+
+C'était notre but, nous allons pouvoir admirer le dragon à l'étape 15 (avec ... virages !)
