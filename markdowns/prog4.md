@@ -88,7 +88,6 @@ En langage C, une alternative s'écrira comme ceci :
         } else {
             instructions_si_condition_fausse
         }
-
 ```
 
 - Dans `condition`, nous pourrons utiliser des instructions spécifiques qui sont parfois vraies, parfois fausses ;
