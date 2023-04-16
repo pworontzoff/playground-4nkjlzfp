@@ -137,6 +137,8 @@ i = i + 1;
 
 `i` permet de mémoriser à quelle virage nous sommes et `i = i + 1;` permet de compter dans i et donc de préciser que nous sommes 1 virage plus loin.
 
+<br><br>
+
 ## Le dernier défi : terminer le programme qui dessine la courbe du dragon !
 
 Toutes les infos sont plus haut, il faut utiliser tout ça correctement pour terminer un programme capable de dessiner une courbe du dragon.
