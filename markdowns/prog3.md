@@ -14,7 +14,25 @@ Notons que si on voulait prolonger notre dessin vers la droite, nous devrions al
 
 On aurait alors les instructions :
 
+```C
+    draw(100);
 
+	turn(90,RIGHT);
+	
+	draw(100);
+	
+	turn(90,LEFT);
+	
+
+    
+	draw(100);
+
+	turn(90,RIGHT);
+
+	draw(100);
+
+	turn(90,LEFT);
+```
 
 N'y a-t-il pas des instructions qui se répètent ?
 
