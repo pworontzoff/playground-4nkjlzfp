@@ -1,6 +1,8 @@
 # La Courbe du dragon - programmation 4 - 10 premiers virages de la courbe du dragon niveau 4
 
-## Réponse à la question pécédente
+## Rappel
+
+Au niveau 4, nous avions 15 virages :
 
 ```
 niveau 1 :         G
@@ -8,6 +10,8 @@ niveau 2 : G       G D
 niveau 3 : GGD     G GDD
 niveau 4 : GGDGGDD G GGDDGDD
 ```
+
+Et nous avons fait 10 marches d'escaliers
 
 <br>
 Pour passer du niveau `3 au` niveau 4, on remarque que la première partie du chemin est égale au chemin du niveau précédent :
