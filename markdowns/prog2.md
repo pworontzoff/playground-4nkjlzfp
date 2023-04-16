@@ -10,7 +10,7 @@ niveau 4 : GGDGGDD G GGDDGDD
 ```
 
 <br>
-Pour passer du niveau `3 au` niveau 4, on remarque que la première partie du chemin est égale au chemin du niveau précédent :
+Pour passer du niveau 3 au niveau 4, on remarque que la première partie du chemin est égale au chemin du niveau précédent :
 <br><br>
 
 niveau 3 : `GGD G GDD`
