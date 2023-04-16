@@ -33,11 +33,11 @@ int main() {
     draw(longueur_segment);
 
     repeat (nbVirages()) {
-	if (G_OU_D(chemin, i) == DROITE) {
+        if (G_OU_D(chemin, i) == DROITE) {
            turn(90,RIGHT);
-	} else {
+        } else {
            turn(90,LEFT);
-	}
+        }
         draw(longueur_segment);
         i = i + 1;
     } loop;
