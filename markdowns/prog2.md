@@ -35,6 +35,10 @@ Voici le programme qui permet de le faire :
 
 @[drawing_dragon_1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_1"})
 
+**! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
+
+*NB : si vous obtenez l'erreur "Unable to open static viewer" ou si rien ne s'affiche, ce n'est pas grave, il faut juste insister sur le bouton "run" (ou "success") et ça devrait finir par fonctionner.*
+
 Comme on le voit la commande
 
 ```C
@@ -47,22 +51,35 @@ Qui peut dire ce qu'est un pixel ?
 
 ## Dessiner avec du code : deux segments de droites
 
-Voici maintenant un programme qui fait tracer un segment de droite vers la droite**, puis fait un virage vers la droite à 90° et 
+Voici maintenant un programme qui fait tracer un segment de droite vers la droite**, puis fait un virage vers la droite de 90° (1/4 de tour) et ensuite trace à bouveau un segment de droite de 100 pixels (vers la bas, donc !) : 
 
-Voici le programme qui permet de le faire :
+@[drawing_dragon_2]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_2"})
 
-@[drawing_dragon_1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_1"})
+**! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
+
+*NB : si vous obtenez l'erreur "Unable to open static viewer" ou si rien ne s'affiche, ce n'est pas grave, il faut juste insister sur le bouton "run" (ou "success") et ça devrait finir par fonctionner.*
 
 Comme on le voit la commande
 
 ```C
-draw(100);
+turn(90,RIGHT);
 ```
 
-permet de tracer un segment de droite de 100 pixels en partant du centre de la feuille.
+permet de faire un virage de 90 degrés vers la droite. (En imaginant les segments comme un chemin parcouru par une fourmi, la fourmi tourne de 90° à sa droite.)
 
+On peut également faire faire un virage vers la gauche à notre fourmi en écrivant : 
 
+```C
+turn(90,LEFT);
+```
 
+Notons que le dessin effectué à cet étape ressemble à une marche d'escalier.
+
+## Défi : compléter le dessin pour faire une deuxième marche d'escalier !
+
+Nous allons maintenant compléter ce programme pour qu'il dessinne une seconde marche d'escalier : à vous de jouer !
+
+@[drawing_dragon_3]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_3"})
 
 **! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
 
