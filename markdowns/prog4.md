@@ -86,13 +86,26 @@ if (condition) {
 
 - Mais dans le cas contraire (si la condition est fausse), seules les instructions (que nous avons dénommées ici plus haut `instructions_si_condition_fausse`) qui sont placées entre la seconde paire d'accolades ({...}) seront exécutées !
 
-La condition que nous allons pouvoir utiliser sera donc évidemment :
+La `condition` que nous allons pouvoir utiliser sera donc évidemment :
 
 ```C
 G_OU_D(chemin, i) == DROITE
 ```
 
 qui indique si oui (vrai) ou non (faux) la fourmi doit tourner à droite. Et si c'est non, elle doit donc tourner à gauche.
+
+Et les `instructions_si_condition_vraie` seront donc simplement :
+
+```C
+turn(90,RIGHT);
+```
+
+Et les `instructions_si_condition_fausse` seront donc simplement :
+
+```C
+turn(90,LEFT);
+```
+
 
 @[drawing_dragon_8]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_8"})
 
