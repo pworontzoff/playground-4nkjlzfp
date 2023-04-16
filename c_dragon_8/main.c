@@ -28,7 +28,7 @@ int main() {
     draw(longueur_segment);
 
     repeat (10) {
-		
+
     } loop;
     
     display_drawing();
