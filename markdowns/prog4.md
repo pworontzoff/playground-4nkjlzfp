@@ -22,6 +22,8 @@ Et nous avons fait 10 marches d'escaliers en écrivant :
     } loop;
 ```
 
+<br><br>
+
 ## Niveau supérieur : la croube du dragon, programme presque complet...
 
 Nous allons maintenant passer au niveau supérieur, notre programme va intégrer du code en plus qui permet de dessiner la courbe du dragon :
@@ -64,6 +66,8 @@ G_OU_D(chemin, 156) == DROITE
 
 sera VRAI s'il faut tourner à droite au 156e virage et FAUX s'il fallait tourner à gauche.
 
+<br><br>
+
 ## Les alternatives
 
 Ce que nous allons faire maintenant, c'est d'utiliser un mécanisme de programmation de prise de décision afin de faire *comme si* notre fourmi était intelligente et qu'on lui avait appris une règle à suivre.
@@ -105,6 +109,10 @@ Et les `instructions_si_condition_fausse` seront donc simplement :
 ```C
 turn(90,LEFT);
 ```
+
+<br><br>
+
+## La fin de la boucle
 
 Ensuite nous pourrons tracer un segment de droite d'une lonqueur adaptée avec l'instruction :
 
