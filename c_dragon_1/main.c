@@ -9,14 +9,6 @@ int main() {
 	init_drawing(LARGEUR,HAUTEUR);
 
     draw(100);
-
-	turn(90,RIGHT);
-	
-	draw(100);
-	
-	turn(90,LEFT);
-	
-	draw(100);
 	
     display_drawing();
 
