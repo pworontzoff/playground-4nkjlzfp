@@ -1,4 +1,4 @@
-# La Courbe du dragon - programmation 1
+# La Courbe du dragon - programmation 1 : calculer le chemin
 
 ## Réponse à la question bonus
 
