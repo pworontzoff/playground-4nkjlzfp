@@ -83,7 +83,7 @@ En programmation, ce mécanisme pour préprogrammer une prise de décision s'app
 En langage C, une alternative s'écrira comme ceci :
 
 ```C
-		if (condition) {
+if (condition) {
             instructions_si_condition_vraie
         } else {
             instructions_si_condition_fausse
