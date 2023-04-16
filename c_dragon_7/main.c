@@ -25,9 +25,9 @@ int main() {
     init_dragon();
 	
     repeat (10) {
-		draw(100);
+		draw(50);
 		turn(90,RIGHT);
-		draw(100);
+		draw(50);
 		turn(90,LEFT);
     } loop;
     
