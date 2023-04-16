@@ -139,7 +139,9 @@ i = i + 1;
 
 <br><br>
 
-## Le dernier défi : terminer le programme qui dessine la courbe du dragon !
+## Le dernier défi : terminer le programme qui dessine les 10 premiers virages de la courbe du dragon (niveau 4) !
+
+![DragonNiv4_10Virages](img/DragonNiv4_10Virages.PNG) 
 
 Toutes les infos sont plus haut, il faut utiliser tout ça correctement pour terminer un programme capable de dessiner une courbe du dragon.
 
