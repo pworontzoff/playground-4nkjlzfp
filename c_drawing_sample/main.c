@@ -16,18 +16,13 @@ int etape=0;
 
 int nbVirages();
 void ajoutePlis();
-
+void init_dragon();
 
 int main() {
     int longueur_segment = TAILLE_SEGMENT_INIT;
     int i=0;
     
-    repeat (COURBE_NIVEAU) {
-        ajoutePlis();
-        longueur_segment = (longueur_segment * (7 + (0.027 * COURBE_NIVEAU))) / 10;        
-    } loop;
-
-    init_drawing(LARGEUR,HAUTEUR);
+    init_dragon();
 	
     turn(90,RIGHT);
     draw(longueur_segment);
@@ -86,5 +81,15 @@ void ajoutePlis() {
     } loop;
 
     etape = etape + 1;
+    return;
+}
+
+void init_dragon() {
+    repeat (COURBE_NIVEAU) {
+        ajoutePlis();
+        longueur_segment = (longueur_segment * (7 + (0.027 * COURBE_NIVEAU))) / 10;        
+    } loop;
+
+    init_drawing(LARGEUR,HAUTEUR);
     return;
 }
