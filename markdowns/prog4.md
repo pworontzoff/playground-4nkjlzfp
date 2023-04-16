@@ -106,6 +106,18 @@ Et les `instructions_si_condition_fausse` seront donc simplement :
 turn(90,LEFT);
 ```
 
+Ensuite nous pourrons tracer un segment de droite d'une lonqueur adaptée avec l'instruction :
+
+```C
+draw(longueur_segment);
+```
+En effet, `longueur_segment` est calculé par notre programme pour être toujours convenable en fonction de la taille de la courbe du dragon (en fonction du niveau).
+
+Pour que ça fonctionne, il faudra enfin ajouer :
+
+```C
+i = i + 1;
+```
 
 @[drawing_dragon_8]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_8"})
 
