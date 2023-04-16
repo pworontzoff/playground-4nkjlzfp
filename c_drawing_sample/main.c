@@ -77,10 +77,10 @@ void ajoutePlis() {
     G(chemin, nouveauMilieu);
 
     repeat(nouveauMilieu) {
-        if ( G_OU_D(chemin, nouveauMilieu - i) != DROITE ) {
-            D(chemin, nouveauMilieu + i);
-        } else {
+        if ( G_OU_D(chemin, nouveauMilieu - i) == DROITE ) {
             G(chemin, nouveauMilieu + i);
+        } else {
+            D(chemin, nouveauMilieu + i);
         }
         i++;
     } loop;
