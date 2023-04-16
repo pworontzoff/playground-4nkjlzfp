@@ -42,7 +42,11 @@ qui permet de construire une liste de nombres 0 ou 1 qui indiquent s'ils faut to
 
 On peut le voir comme une suite de 'D' ou de 'G' pour indiquer à la fourmi s'il faut tourner de 90° vers sa gauche ou vers sa droite.
 
-Et nous avons également un moyen de savoir s'il faut tourner à gauche ou à droite selon le numéro du virage en utilisant le code suivant&nbsp;:
+## Les conditions
+
+En programmation, on appelle une **condition** un code qui peut-être soit vrai, soit faux, et rien d'autre.
+
+Grâce aux lignes de codes que nous avons ajoutées, nous avons également un moyen de savoir s'il faut tourner à gauche ou à droite selon le numéro du virage en utilisant la condition suivante&nbsp;:
 
 ```C
 G_OU_D(chemin, i) == DROITE
