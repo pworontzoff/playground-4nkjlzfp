@@ -47,6 +47,8 @@ permet de tracer un segment de droite de 100 pixels en partant du centre de la f
 
 Qui peut dire ce qu'est un pixel ?
 
+<br><br>
+
 ## Dessiner avec du code : deux segments de droites
 
 Voici maintenant un programme qui fait tracer un segment de droite vers la droite**, puis fait un virage vers la droite de 90° (1/4 de tour) et ensuite trace à bouveau un segment de droite de 100 pixels (vers la bas, donc !) : 
@@ -72,6 +74,8 @@ turn(90,LEFT);
 ```
 
 Notons que le dessin effectué à cet étape ressemble à une marche d'escalier.
+
+<br><br>
 
 ## Défi : compléter le dessin pour faire une deuxième marche d'escalier !
 
