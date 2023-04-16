@@ -42,6 +42,8 @@ qui permet de construire une liste de nombres 0 ou 1 qui indiquent s'ils faut to
 
 On peut le voir comme une suite de 'D' ou de 'G' pour indiquer à la fourmi s'il faut tourner de 90° vers sa gauche ou vers sa droite.
 
+<br><br>
+
 ## Les conditions
 
 En programmation, on appelle une **condition** un code qui peut-être soit vrai, soit faux, et rien d'autre.
