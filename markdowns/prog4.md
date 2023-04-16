@@ -40,7 +40,7 @@ qui permet de construire une liste de nombres 0 ou 1 qui indiquent s'ils faut to
 
 On peut le voir comme une suite de 'D' ou de 'G' pour indiquer à la fourmi s'il faut tourner de 90° vers sa gauche ou vers sa droite.
 
-Et nous avons également un moyen de savoir s'il faut tourner à gauche ou à droite selon le numéro du virage en utilisant le code suivant :
+Et nous avons également un moyen de savoir s'il faut tourner à gauche ou à droite selon le numéro du virage en utilisant le code suivant&nbsp;:
 
 ```C
 G_OU_D(chemin, i) == DROITE
