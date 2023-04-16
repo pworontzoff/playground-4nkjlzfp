@@ -3,7 +3,7 @@
 #include "drawing.h"
 
 
-#define COURBE_NIVEAU 1
+#define COURBE_NIVEAU 4
 
 
 #define LARGEUR 1200
