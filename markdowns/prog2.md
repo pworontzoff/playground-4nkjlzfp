@@ -23,11 +23,46 @@ Ensuite, on doit lire à l'envers (de droite à gauche) le chemin précédent et
 
 <br><br>
 
+## Dessiner avec du code : un segment de droite
+
+<br>
+
 Amusons-nous à dessiner avec du code !
 
-Ce que nous allons faire maintenant est très simple : faire tracer un segment de droite grâce à notre petit programme ci-dessous :
+Ce que nous allons faire maintenant est très simple : faire tracer un segment de droite grâce à notre petit programme ci-dessous !
+
+Voici le programme qui permet de le faire :
 
 @[drawing_dragon_1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_1"})
+
+Comme on le voit la commande
+
+```C
+draw(100);
+```
+
+permet de tracer un segment de droite de 100 pixels en partant du centre de la feuille et en traçant ver la droite.
+
+Qui peut dire ce qu'est un pixel ?
+
+## Dessiner avec du code : deux segments de droites
+
+Voici maintenant un programme qui fait tracer un segment de droite vers la droite**, puis fait un virage vers la droite à 90° et 
+
+Voici le programme qui permet de le faire :
+
+@[drawing_dragon_1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_1"})
+
+Comme on le voit la commande
+
+```C
+draw(100);
+```
+
+permet de tracer un segment de droite de 100 pixels en partant du centre de la feuille.
+
+
+
 
 **! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
 
