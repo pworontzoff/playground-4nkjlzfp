@@ -1,4 +1,4 @@
-# La Courbe du dragon - programmation 3 - 16 marches d'escaliers
+# La Courbe du dragon - programmation 3 - 10 marches d'escaliers
 
 ## 2 marches d'escalier
 
