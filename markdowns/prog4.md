@@ -27,7 +27,7 @@ Ensuite, on doit lire à l'envers (de droite à gauche) le chemin précédent et
 
 <br><br>
 
-@[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
+@[drawing_dragon_7]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_7"})
 
 **! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
 
