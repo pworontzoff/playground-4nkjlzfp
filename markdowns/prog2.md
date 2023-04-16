@@ -77,7 +77,11 @@ Notons que le dessin effectué à cet étape ressemble à une marche d'escalier.
 
 ## Défi : compléter le dessin pour faire une deuxième marche d'escalier !
 
-Nous allons maintenant compléter ce programme pour qu'il dessinne une seconde marche d'escalier : à vous de jouer !
+Nous allons maintenant compléter ce programme pour qu'il dessinne une seconde marche d'escalier : 
+
+![2Marches](img/2Marches.png) 
+
+À vous de jouer !
 
 @[drawing_dragon_3]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_3"})
 
