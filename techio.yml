@@ -1,26 +1,26 @@
-title : La Courbe du dragon
+title : La courbe du Dragon
 plan:
-  - title: La Courbe du dragon - Introduction
+  - title: La courbe du Dragon - Introduction
     statement: markdowns/welcome.md
-  - title: La Courbe du dragon - niveau 1, un "L"
+  - title: La courbe du Dragon - niveau 1, un "L"
     statement: markdowns/step1.md
-  - title: La Courbe du dragon - niveau 2
+  - title: La courbe du Dragon - niveau 2
     statement: markdowns/step2.md
-  - title: La Courbe du dragon - niveau 3
+  - title: La courbe du Dragon - niveau 3
     statement: markdowns/step3.md
-  - title: La Courbe du dragon - niveau 4
+  - title: La courbe du Dragon - niveau 4
     statement: markdowns/step4.md
-  - title: La Courbe du dragon - niveau 5, 6, 7, ..., 15, ... ?
+  - title: La courbe du Dragon - niveau 5, 6, 7, ..., 15, ... ?
     statement: markdowns/step5To15.md
-  - title: La Courbe du dragon - Programmation - 1
+  - title: La courbe du Dragon - Programmation - 1
     statement: markdowns/prog1.md
-  - title: La Courbe du dragon - Programmation - 2
+  - title: La courbe du Dragon - Programmation - 2
     statement: markdowns/prog2.md
-  - title: La Courbe du dragon - Programmation - 3
+  - title: La courbe du Dragon - Programmation - 3
     statement: markdowns/prog3.md
-  - title: La Courbe du dragon - Programmation - 4
+  - title: La courbe du Dragon - Programmation - 4
     statement: markdowns/prog4.md
-  - title: La Courbe du dragon - Programmation - 5
+  - title: La courbe du Dragon - Programmation - 5
     statement: markdowns/prog5.md
  
 projects:
