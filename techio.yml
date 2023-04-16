@@ -42,6 +42,16 @@ projects:
     runner:
       name: techio/cmake-gcc-runner
       version: latest
+  drawing_dragon_5:
+    root: "/c_dragon_4"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  drawing_dragon_6:
+    root: "/c_dragon_4"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
 
   drawing_dragon_curve:
     root: "/c_drawing_sample"
