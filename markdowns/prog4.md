@@ -127,11 +127,21 @@ draw(longueur_segment);
 ```
 En effet, `longueur_segment` est calculé par notre programme pour être toujours convenable en fonction de la taille de la courbe du dragon (en fonction du niveau).
 
-Pour que ça fonctionne, il faudra enfin ajouer :
+Pour que ça fonctionne, il faudra enfin ajouter :
 
 ```C
 i = i + 1;
 ```
+
+à la fin de la boucle.
+
+`i` permet de mémoriser à quelle virage nous sommes et `i = i + 1;` permet de compter dans i et donc de préciser que nous sommes 1 virage plus loin.
+
+## Le dernier défi : terminer le programme qui dessine la courbe du dragon !
+
+Toutes les infos sont plus haut, il faut utiliser tout ça correctement pour terminer un programme capable de dessiner une courbe du dragon.
+
+NB: en lignes 
 
 @[drawing_dragon_8]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_8"})
 
