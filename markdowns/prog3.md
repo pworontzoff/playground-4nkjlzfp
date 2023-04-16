@@ -105,6 +105,8 @@ Quand c'est réussi, pourquoi pas 10 marches ? Allons-y !
 
 ## 10 marches d'escalier en boucle
 
+![10Marches](img/10Marches.png) 
+
 @[drawing_dragon_6]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_6"})
 
 **! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
