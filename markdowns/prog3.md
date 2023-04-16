@@ -42,8 +42,8 @@ Nous pouvons écrire par exemple :
 
 ```C
 repeat(2) {
-draw(15);
-turn(30,LEFT);
+    draw(15);
+    turn(30,LEFT);
 } loop;
 ```
 
@@ -60,8 +60,8 @@ Ou bien nous pouvons écrire par exemple :
 
 ```C
 repeat(5) {
-draw(15);
-turn(30,LEFT);
+    draw(15);
+    turn(30,LEFT);
 } loop;
 ```
 
