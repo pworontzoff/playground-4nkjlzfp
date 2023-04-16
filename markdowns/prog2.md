@@ -25,8 +25,6 @@ Ensuite, on doit lire à l'envers (de droite à gauche) le chemin précédent et
 
 ## Dessiner avec du code : un segment de droite
 
-<br>
-
 Amusons-nous à dessiner avec du code !
 
 Ce que nous allons faire maintenant est très simple : faire tracer un segment de droite grâce à notre petit programme ci-dessous !
