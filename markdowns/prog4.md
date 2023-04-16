@@ -66,7 +66,7 @@ sera VRAI s'il faut tourner à droite au 156e virage et FAUX s'il fallait tourne
 
 ## Les alternatives
 
-Ce que nous allons faire maintenant, c'est d'utiliser ce mécanisme de programmation de prise de décision afin de faire *comme si* notre fourmi était intelligente et qu'on lui avait appris une règle à suivre.
+Ce que nous allons faire maintenant, c'est d'utiliser un mécanisme de programmation de prise de décision afin de faire *comme si* notre fourmi était intelligente et qu'on lui avait appris une règle à suivre.
 
 En programmation, ce mécanisme pour préprogrammer une prise de décision s'appelle une alternative.
 
