@@ -31,10 +31,6 @@ Ouvrons la calculatrice sur notre ordinateur et... calculons !
 
 <br>
 
-!!!!!! (réponse : 3276,8 mm = environ 3m de haut et environ 0,000064cm = 6,4 millième de mm de long = environ un dizième de la largeur d'un cheveux)
-
-<br>
-
 ...On comprend donc bien que c'est impossible de pier 15 fois en deux une feuille de papier !
 
 <br>
