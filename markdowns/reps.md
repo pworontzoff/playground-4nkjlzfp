@@ -70,4 +70,46 @@ Puisqu'au niveau précédent, la bandelette de feuille faisait 0,2mm d'épaisseu
 
 <br><br>
 
+# La Courbe du dragon - niveau 3 (3 plis)
 
+## Question 1 et réponse 1 : le chemin de la fourmi
+
+<br>
+
+Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcoure le long de la tranche pour arriver à l'autre bout de la feuille !
+
+<br>
+
+Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4 de tour) vers ... ?
+
+<br>
+
+Notez sur la 2e feuille : "niveau 3 :" puis tracez le dessin obtenu, puis indiquez le chemin de la fourmi  **en notant "G" pour "Gauche" et "D" pour "DROITE"**
+
+<br>
+
+**Réponse : GGD G GDD**
+
+<br><br>
+
+## Question 2 et réponse 2 : le nombre de virages
+
+<br>
+
+Combien de virages a fait la fourmi ?
+
+<br>
+
+**Réponse : 7**
+
+<br><br>
+
+## Question 3 et réponse 3 les dimensions de la bandelette de papier
+
+<br>
+
+Puisqu'au niveau précédent, la bandelette de feuille faisait 0,4mm d'épaisseur et 5,25cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
+
+<br>
+
+**Réponse : épaisseur feuille pliée : 0,4mm x 2 = 0,8mm et longueur : 5,25cm / 2 = 2,625cm"**
