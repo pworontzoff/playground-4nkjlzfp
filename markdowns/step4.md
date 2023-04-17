@@ -18,10 +18,6 @@ Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcoure le 
 
 Notez sur la 2e feuille : "niveau 4 :" puis tracez le dessin obtenu, puis indiquez le chemin de la fourmi  **en notant "G" pour "Gauche" et "D" pour "DROITE"**
 
-<br>
-
-!!!!!! (réponse : GGDGGDD G GGDDGDD).
-
 <br><br>
 
 ## Question 2 et réponse 2 : le nombre de virages
@@ -29,10 +25,6 @@ Notez sur la 2e feuille : "niveau 4 :" puis tracez le dessin obtenu, puis indiqu
 <br>
 
 Combien de virages a fait la fourmi ?
-
-<br>
-
-!!!!!! (réponse : 15)
 
 <br>
 
@@ -45,10 +37,6 @@ Ajouter maintenant sur la 2e feuille, toujours au niveau 3 : "nombre de virages 
 <br>
 
 Puisqu'au niveau précédent, la bandelette de feuille faisait 0,8mm d'épaisseur et 2,625cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
-
-<br>
-
-!!!!!! (réponse : "épaisseur feuille pliée : 0,8mm x 2 = 1,6mm et longueur : 2,625cm / 2 = 1,3125cm".)
 
 <br>
 
