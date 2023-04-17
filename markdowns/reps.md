@@ -142,7 +142,9 @@ Combien de virages a fait la fourmi ?
 
 <br>
 
-**Réponse : 15
+**Réponse : 15**
+
+<br><br>
 
 ## Question 3 et réponse 3 les dimensions de la bandelette de papier
 
