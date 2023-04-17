@@ -40,8 +40,6 @@ Imaginez de nouveau une fourmi qui part de la gommette bleue et qui parcoure le 
 
 Elle part tout droit, puis quel sera son chemin ? Elle tourne (chaque fois d'1/4 de tour) vers ... ?
 
-!!!!!! (réponse : GAUCHE-GAUCHE-DROITE)
-
 <br><br>
 
 ## Réponse 1, noter le chemin de la fourmi :
@@ -57,8 +55,6 @@ Notez maintenant sur la 2e feuille : "niveau 2 :" puis tracez le dessin obtenu, 
 <br>
 
 Combien de virages a fait la fourmi ?
-
-!!!!!! (réponse : 3)
 
 <br><br>
 
@@ -77,8 +73,6 @@ Ajouter maintenant sur la 2e feuille, toujours au niveau 2 : "nombre de virages 
 En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en longueur, quel est l'épaisseur et quelle est la longueur de la bandelette pliée en 2 ?
 
 Puisqu'au niveau précédent, la bandelette de feuille faisait 0,2mm d'épaisseur et 10,5cm de long, quel est l'épaisseur et quelle est la longueur de la bandelette pliée à ce niveau-ci ?
-
-!!!!!! (réponse : 0,2mm * 2 = 0,4mm d'épaisseur et 10,5cm/2 = 5,25cm de long)
 
 <br><br>
 
