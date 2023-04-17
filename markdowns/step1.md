@@ -20,8 +20,6 @@ Imaginez une fourmi qui part de la gommette bleue en haut du "L" et qui parcoure
 
 Elle part tout droit, puis tourne d'1/4 de tour vers SA gauche ou vers SA droite ?
 
-!!!!!! (réponse : gauche)
-
 <br><br>
 
 ## Réponse 1, noter le chemin de la fourmi :
@@ -38,8 +36,6 @@ Notez maintenant sur la 2e feuille : "niveau 1 :" puis tracez le "L" obtenu, pui
 
 Combien de virages a fait la fourmi ?
 
-!!!!!! (réponse : 1)
-
 <br><br>
 
 ## Réponse 2, noter le nombre de virages :
@@ -55,8 +51,6 @@ Ajouter maintenant sur la 2e feuille, toujours au niveau 1 : "nombre de virages 
 <br>
 
 En supposant que la bandelette de feuille fait 0,1mm d'épaisseur et 21cm en longueur, quel est l'épaisseur et quelle est la longueur de la bandelette pliée en 2 ?
-
-!!!!!! (réponse : 0,1mm * 2 = 0,2mm d'épaisseur et 21cm/2 = 10,5cm de long)
 
 <br><br>
 
