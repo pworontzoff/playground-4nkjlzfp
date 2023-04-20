@@ -27,7 +27,7 @@ Si oui, comment faire pour voir ce que donnerait notre petit dessin au niveau 15
 
 <br>
 
-Ouvrons la calculatrice sur notre ordinateur et... calculons !
+Ouvrons la calculatrice (Ctrl + Alt + C) sur notre ordinateur et... calculons !
 
 <br>
 
