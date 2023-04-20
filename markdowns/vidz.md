@@ -10,5 +10,5 @@ Par exemple, je regarde une fourmi au microscope et je constate que son contour 
 
 Dans la nature, les choux romanesco, les vaissaux sanguins, certaines fougères, etc. ont des formes fractales (mais finies) :
 
-![fern6](img/fern6.png) 
+![Fern6](img/fern6.png) 
 By Andrew Holm  Posted 9th January 2017  In Business, Fractal Model
