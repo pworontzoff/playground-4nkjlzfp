@@ -34,7 +34,7 @@ Une forme qui pave le plan est une forme unique qu'on peut utiliser pour recouvr
 Par exemple, les rectangles pavent le plan :
 
 ![rectPavage](img/rectPavage.jpg) 
-By Andrew Holm  Posted 9th January 2017  In Business, Fractal Model
+
 
 Notre courbe du dragon est une fractale.
 
