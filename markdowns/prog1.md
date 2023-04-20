@@ -2,7 +2,7 @@
 
 ## Réponse à la question bonus
 
-- L'épaisseur de la bandelette de feuille pliée 53 fois est d'environ 900 millions de km de haut, soit **la distance maximale entre la terre et jupiter**. Si on voulait parcourir cette distance à pied, c'est l'équivalent de faire **25 000 fois le tour de la terre, à l'équateur)**.
+- L'épaisseur de la bandelette de feuille pliée 53 fois est d'environ 900 millions de km de haut, soit **la distance maximale entre la terre et jupiter**. Si on voulait parcourir cette distance à pied, c'est l'équivalent de faire **25 000 fois le tour de la terre (à l'équateur)**.
 
 - La longueur de la bandelette de feuille pliée 53 fois est de 2,3 am (attomètre = 1 milliardième de milliardième de mètre) = environ **500 fois plus petit que la taille d'un noyau atomique** (un noyau atomique, c'est 100.000 fois plus petit qu'un atome...)
 
