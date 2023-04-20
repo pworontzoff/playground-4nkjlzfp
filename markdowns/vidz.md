@@ -44,7 +44,7 @@ Notre courbe du dragon permet de paver le plan !
 
 Voici une vidéo qui le montre :
 
-https://www.youtube.com/watch?v=J7IKKzzApg8
+https://www.youtube.com/watch?v=-sad-hmgZIs
 
 ([Dropbox mov](https://www.dropbox.com/s/moann1cfdmop1v4/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mov?dl=0))
 
