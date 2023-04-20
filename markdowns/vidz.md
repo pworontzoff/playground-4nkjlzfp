@@ -1,20 +1,13 @@
-# La Courbe du dragon - programmation 6 - Le programme complet
+# La courbe du Dragon - Quelques propriétés en vidéo
 
-@[drawing_dragon_curve]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "drawing_dragon_curve"})
+## La courbe du dragon est une fractale
 
-**! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le dessin obtenu.**
+Une fractale est un contour identique que l'on retrouve à différentes échelles.
 
-*NB : si vous obtenez l'erreur "Unable to open static viewer" ou si rien ne s'affiche, ce n'est pas grave, il faut juste insister sur le bouton "run" (ou "success") et ça devrait finir par fonctionner.*
+C'est comme si on regardait un objet au microscope agrandit 100 fois et qu'on retrouvait la forme de cet objet. Puis on agrandit 1000 fois, et on voit à nouveau cette forme, et ainsi de suite à l'infini !
 
-Dans ce programme que nous avons complété avec succès, il y a une des premières ligne qui est :
+Par exemple, je regarde une fourmi au microscope et je constate que son contour est composé de plein de formes de fourmis, alors je décide d'en cibler une et de l'agrandir, et je constate que c'est pareil, et que ça se reproduit à l'infini.
 
-```C
-#define COURBE_NIVEAU 1
-```
+Dans la nature, les choux romanesco, les vaissaux sanguins, certaines fougères, etc. ont des formes fractales (mais finies) :
 
-Nous pouvons changer le `1` et essayer successivement les valeurs 2, 3, 4, ..., 15 !
-
-C'était notre but, nous allons pouvoir admirer le dragon à l'étape 15 (avec plus de 32000 virages !)
-
-![diplome](img/diplome.PNG) 
-
+By Andrew Holm  Posted 9th January 2017  In Business, Fractal Model
