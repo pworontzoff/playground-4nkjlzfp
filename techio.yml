@@ -24,6 +24,8 @@ plan:
     statement: markdowns/prog5.md
   - title: La courbe du Dragon - Programmation - 6
     statement: markdowns/prog6.md
+  - title: La courbe du Dragon - Quelques propriétés en vidéo
+    statement: markdowns/vidz.md
   - title: Réponses aux questions
     statement: markdowns/reps.md
  
