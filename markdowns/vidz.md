@@ -4,7 +4,7 @@
 
 Une fractale est un contour identique que l'on retrouve à différentes échelles.
 
-C'est comme si on regardait un objet au microscope agrandit 100 fois et qu'on retrouvait la forme de cet objet. Puis on agrandit 1000 fois, et on voit à nouveau cette forme, et ainsi de suite à l'infini !
+C'est comme si on regardait un objet au microscope agrandit 100 fois et qu'on retrouvait la forme de cet objet. Puis on agrandit à nouveau 1000 fois, et on voit à nouveau cette forme, et ainsi de suite à l'infini !
 
 Par exemple, je regarde une fourmi au microscope et je constate que son contour est composé de plein de formes de fourmis, alors je décide d'en cibler une et de l'agrandir, et je constate que c'est pareil, et que ça se reproduit à l'infini.
 
