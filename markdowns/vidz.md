@@ -38,6 +38,7 @@ Par exemple, les rectangles pavent le plan :
 Mais pas les cercles :
 
 ![cerclePavage](img/cerclePavage.png) 
+![cerclePavage2](img/cerclePavage2.png) 
 
 Notre courbe du dragon est une fractale.
 
