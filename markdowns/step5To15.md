@@ -41,8 +41,9 @@ NB : après 15 plis, il y aura plus de 32000 virages pour la fourmi !
 
 Question bonus :  A votre avis sans calculer, quelle serait l'épaisseur et la longueur de la bandelette de feuille pliée 53 fois et combien de virages y aurait-il ?
 
-<br>
 
 [>> Quizz](https://app.wooclap.com/DRAGON4KIDS?from=event-page)
+
+<br>
 
 Réponse... voire page suivante !
