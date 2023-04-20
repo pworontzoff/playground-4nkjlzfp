@@ -40,9 +40,9 @@ Mais pas les cercles :
 ![cerclePavage](img/cerclePavage.png) 
 ![cerclePavage2](img/cerclePavage2.png) 
 
-Notre courbe du dragon est une fractale.
+Notre courbe du dragon permet de paver le plan !
 
-Si on zoome ou qu'on dézoome dans la courbe du Dragon, on voit les mêmes formes revenir. Voici un exemple avec une courbe du dragon de niveau 41 :
+Voici une vidéo qui le montre :
 
 https://www.youtube.com/watch?v=J7IKKzzApg8
 
