@@ -17,6 +17,7 @@ By Andrew Holm  Posted 9th January 2017  In Business, Fractal Model
 
 Notre courbe du dragon est une fractale.
 
-Si on zomme ou qu'on dézomme on voir les mêmes formes revenir :
+Si on zoome ou qu'on dézoome dans la courbe du Dragon, on voit les mêmes formes revenir. Voici un exemple avec une courbe du dragon de niveau 42 :
+
 
 
