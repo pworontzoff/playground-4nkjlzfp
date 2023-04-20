@@ -43,6 +43,6 @@ Question bonus :  A votre avis sans calculer, quelle serait l'épaisseur et la l
 
 <br>
 
-(quizz)[https://app.wooclap.com/DRAGON4KIDS?from=event-page]
+[>> Quizz](https://app.wooclap.com/DRAGON4KIDS?from=event-page)
 
 Réponse... voire page suivante !
