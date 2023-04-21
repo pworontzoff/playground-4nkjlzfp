@@ -50,6 +50,6 @@ Réponse... voire page suivante !
 
 <br><br><br><br><br><hr>
 
-##* Réponse
+## (*) Réponse
 
 Épaisseur : environ 3m20 / longueur : environ 5 micron 10 fois plus fin qu'un cheveu (invisible à l'oeil nu) !
