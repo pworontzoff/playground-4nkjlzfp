@@ -44,6 +44,6 @@ Voici une vidéo qui le montre :
 
 https://www.youtube.com/watch?v=-sad-hmgZIs
 
-([Dropbox mp4](https://www.dropbox.com/s/18halpu4439yv4p/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mp4?dl=0))
+([Dropbox mp4](https://www.dropbox.com/s/4harhnzpahpch1c/41%20Iteration%20Dragon%20Curve%20Zoom%20Test.mp4?dl=0))
 
 NB: On peut également voir dans cette vidéo qu'on utilise une autre méthode (plus géométrique) pour construire la courbe.
