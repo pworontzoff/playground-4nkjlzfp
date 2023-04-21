@@ -27,7 +27,7 @@ Si oui, comment faire pour voir ce que donnerait notre petit dessin au niveau 15
 
 <br>
 
-Ouvrons la calculatrice (Ctrl + Alt + C) sur notre ordinateur et... calculons !
+Ouvrons la calculatrice (Ctrl + Alt + C) sur notre ordinateur et... calculons ! (*)
 
 <br>
 
@@ -47,3 +47,7 @@ Question bonus :  A votre avis sans calculer, quelle serait l'épaisseur et la l
 <br>
 
 Réponse... voire page suivante !
+
+<br><br><br><br><br><hr>
+
+* Réponse : épaisseur : environ 3m20 / longueur : environ 5 micron 10 fois plus fin qu'un cheveu (invisible à l'oeil nu) !
