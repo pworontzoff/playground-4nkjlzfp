@@ -18,5 +18,11 @@ Selon les performances de l'apperail qui exécute la courbe du dragon, on peut m
 
 C'était notre but, nous allons pouvoir admirer le dragon à l'étape 15 (avec plus de 32000 virages !)
 
+## Votre diplome !
+
+Vous l'avez bien mérité !! 
+
+![applause](img/applause.gif) 
+
 ![diplome](img/diplome.PNG) 
 
